@@ -7,4 +7,14 @@ body {
     height: 100vh;
     min-height: 100vh;
     background: linear-gradient(#999999, #101010);
+    position: absolute;
+    /*border: solid 2px red;*/
+}
+.content-body {
+    background: transparent;
+    width: 95%;
+    height: 90vh;
+    position: relative;
+    margin: 5vh;
+    /* border: solid 2px red; */
 }
