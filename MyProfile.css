@@ -45,3 +45,28 @@ body {
     background: transparent;
     border: solid 2px red;
 }
+.second-row {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    flex-direction: row;
+    border: solid 2px red;
+}
+.fav-hobby {
+    width: 200px;
+    height: 200px;
+    background: transparent;
+    border: solid 2px red;
+}
+.fav-food {
+    width: 200px;
+    height: 200px;
+    background: transparent;
+    border: solid 2px red;
+}
+.portfolio {
+    width: 400px;
+    height: 200px;
+    background: transparent;
+    border: solid 2px red;
+}
