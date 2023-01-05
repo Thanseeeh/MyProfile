@@ -101,3 +101,28 @@ body {
     background: transparent;
     border: solid 2px red;
 }
+.forth-row {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    flex-direction: row;
+    border: solid 2px red;
+}
+.social-media {
+    width: 400px;
+    height: 200px;
+    background: transparent;
+    border: solid 2px red;
+}
+.code-pen {
+    width: 200px;
+    height: 200px;
+    background: transparent;
+    border: solid 2px red;
+}
+.profile {
+    width: 200px;
+    height: 200px;
+    background: transparent;
+    border: solid 2px red;
+}
