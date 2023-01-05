@@ -70,3 +70,34 @@ body {
     background: transparent;
     border: solid 2px red;
 }
+.third-row {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    flex-direction: row;
+    border: solid 2px red;
+}
+.fav-hobby {
+    width: 200px;
+    height: 200px;
+    background: transparent;
+    border: solid 2px red;
+}
+.fav-place {
+    width: 200px;
+    height: 200px;
+    background: transparent;
+    border: solid 2px red;
+}
+.github {
+    width: 200px;
+    height: 200px;
+    background: transparent;
+    border: solid 2px red;
+}
+.profile {
+    width: 200px;
+    height: 200px;
+    background: transparent;
+    border: solid 2px red;
+}
