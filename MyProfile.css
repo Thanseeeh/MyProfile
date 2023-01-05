@@ -8,13 +8,40 @@ body {
     min-height: 100vh;
     background: linear-gradient(#999999, #101010);
     position: absolute;
-    /*border: solid 2px red;*/
+    border: solid 2px red;
 }
 .content-body {
     background: transparent;
-    width: 95%;
-    height: 90vh;
+    width: 813px;
+    height: 813px;
     position: relative;
-    margin: 5vh;
-    /* border: solid 2px red; */
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    border: solid 2px red;
+}
+.first-row {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    flex-direction: row;
+    border: solid 2px red;
+}
+.place {
+    width: 200px;
+    height: 200px;
+    background: transparent;
+    border: solid 2px red;
+}
+.flag {
+    width: 400px;
+    height: 200px;
+    background: transparent;
+    border: solid 2px red;
+}
+.map {    
+    width: 200px;
+    height: 200px;
+    background: transparent;
+    border: solid 2px red;
 }
