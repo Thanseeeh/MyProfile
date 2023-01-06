@@ -8,7 +8,7 @@ body {
     min-height: 100vh;
     background: linear-gradient(#999999, #101010);
     position: absolute;
-    border: solid 2px red;
+    /* border: solid 2px red; */
 }
 .content-body {
     background: transparent;
@@ -18,111 +18,115 @@ body {
     margin-left: auto;
     margin-right: auto;
     margin-top: 5%;
-    border: solid 2px red;
+    /* border: solid 2px red; */
 }
 .first-row {
     display: flex;
     flex-wrap: nowrap;
     justify-content: flex-start;
     flex-direction: row;
-    border: solid 2px red;
+    /* border: solid 2px red; */
 }
 .place {
     width: 200px;
     height: 200px;
     background: transparent;
-    border: solid 2px red;
+    /* border: solid 2px red; */
+}
+.img1-part1 {
+    width: 200px;
+    height: 200px;
 }
 .flag {
-    width: 400px;
+    width: 200px;
     height: 200px;
     background: transparent;
-    border: solid 2px red;
+    /* border: solid 2px red; */
 }
 .map {    
     width: 200px;
     height: 200px;
     background: transparent;
-    border: solid 2px red;
+    /* border: solid 2px red; */
 }
 .second-row {
     display: flex;
     flex-wrap: nowrap;
     justify-content: flex-start;
     flex-direction: row;
-    border: solid 2px red;
+    /* border: solid 2px red; */
 }
 .fav-hobby {
     width: 200px;
     height: 200px;
     background: transparent;
-    border: solid 2px red;
+    /* border: solid 2px red; */
 }
 .fav-food {
     width: 200px;
     height: 200px;
     background: transparent;
-    border: solid 2px red;
+    /* border: solid 2px red; */
 }
 .portfolio {
-    width: 400px;
+    width: 200px;
     height: 200px;
     background: transparent;
-    border: solid 2px red;
+    /* border: solid 2px red; */
 }
 .third-row {
     display: flex;
     flex-wrap: nowrap;
     justify-content: flex-start;
     flex-direction: row;
-    border: solid 2px red;
+    /* border: solid 2px red; */
 }
 .fav-hobby {
     width: 200px;
     height: 200px;
     background: transparent;
-    border: solid 2px red;
+    /* border: solid 2px red; */
 }
 .fav-place {
     width: 200px;
     height: 200px;
     background: transparent;
-    border: solid 2px red;
+    /* border: solid 2px red; */
 }
 .github {
     width: 200px;
     height: 200px;
     background: transparent;
-    border: solid 2px red;
+    /* border: solid 2px red; */
 }
 .profile {
     width: 200px;
     height: 200px;
     background: transparent;
-    border: solid 2px red;
+    /* border: solid 2px red; */
 }
 .forth-row {
     display: flex;
     flex-wrap: nowrap;
     justify-content: flex-start;
     flex-direction: row;
-    border: solid 2px red;
+    /* border: solid 2px red; */
 }
 .social-media {
-    width: 400px;
+    width: 200px;
     height: 200px;
     background: transparent;
-    border: solid 2px red;
+    /* border: solid 2px red; */
 }
 .code-pen {
     width: 200px;
     height: 200px;
     background: transparent;
-    border: solid 2px red;
+    /* border: solid 2px red; */
 }
 .profile {
     width: 200px;
     height: 200px;
     background: transparent;
-    border: solid 2px red;
+    /* border: solid 2px red; */
 }
