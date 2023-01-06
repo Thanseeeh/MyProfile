@@ -33,21 +33,49 @@ body {
     background: transparent;
     /* border: solid 2px red; */
 }
-.img1-part1 {
+.img-part1 {
     width: 200px;
     height: 200px;
+    border: solid 4px white;
 }
-.flag {
+.flag1 {
+    width: 200px;
+    height: 200px;
+    background: transparent;
+    margin-left: 8px;
+    /* border: solid 2px red; */
+}
+.img-part2 {
+    width: 200px;
+    height: 200px;
+    border-bottom: solid 4px white;
+    border-top: solid 4px white;
+    border-left: solid 4px white;
+}
+.flag2 {
     width: 200px;
     height: 200px;
     background: transparent;
     /* border: solid 2px red; */
+}
+.img-part3 {
+    width: 200px;
+    height: 200px;
+    border-bottom: solid 4px white;
+    border-top: solid 4px white;
+    border-right: solid 4px white;
 }
 .map {    
     width: 200px;
     height: 200px;
     background: transparent;
+    margin-left: 4px;
     /* border: solid 2px red; */
+}
+.img-part4 {
+    width: 200px;
+    height: 200px;
+    border: solid 4px white;
 }
 .second-row {
     display: flex;
@@ -56,23 +84,62 @@ body {
     flex-direction: row;
     /* border: solid 2px red; */
 }
-.fav-hobby {
+.fav-hobby1 {
     width: 200px;
     height: 200px;
     background: transparent;
+    margin-top: 8px;
     /* border: solid 2px red; */
+}
+.img-part5 {
+    width: 200px;
+    height: 200px;
+    border-top: solid 4px white;
+    border-right: solid 4px white;
+    border-left: solid 4px white;
 }
 .fav-food {
     width: 200px;
     height: 200px;
     background: transparent;
+    margin-top: 8px;
+    margin-left: 8px;
     /* border: solid 2px red; */
 }
-.portfolio {
+.img-part6 {
+    width: 200px;
+    height: 200px;
+    border: solid 4px white;
+}
+.portfolio1 {
     width: 200px;
     height: 200px;
     background: transparent;
+    margin-top: 8px;
+    margin-left: 8px;
     /* border: solid 2px red; */
+}
+.img-part7 {
+    width: 200px;
+    height: 200px;
+    border-bottom: solid 4px white;
+    border-top: solid 4px white;
+    border-left: solid 4px white;
+}
+.portfolio2 {
+    width: 200px;
+    height: 200px;
+    background: transparent;
+    margin-top: 8px;
+    margin-left: 4px;
+    /* border: solid 2px red; */
+}
+.img-part8 {
+    width: 200px;
+    height: 200px;
+    border-bottom: solid 4px white;
+    border-top: solid 4px white;
+    border-right: solid 4px white;
 }
 .third-row {
     display: flex;
@@ -81,23 +148,44 @@ body {
     flex-direction: row;
     /* border: solid 2px red; */
 }
-.fav-hobby {
+.fav-hobby2 {
     width: 200px;
     height: 200px;
     background: transparent;
     /* border: solid 2px red; */
+}
+.img-part9 {
+    width: 200px;
+    height: 200px;
+    border-bottom: solid 4px white;
+    border-right: solid 4px white;
+    border-left: solid 4px white;
 }
 .fav-place {
     width: 200px;
     height: 200px;
     background: transparent;
+    margin-top: 8px;
+    margin-left: 8px;
     /* border: solid 2px red; */
+}
+.img-part10 {
+    width: 200px;
+    height: 200px;
+    border: solid 4px white;
 }
 .github {
     width: 200px;
     height: 200px;
     background: transparent;
+    margin-left: 8px;
+    margin-top: 8px;
     /* border: solid 2px red; */
+}
+.img-part11 {
+    width: 200px;
+    height: 200px;
+    border: solid 4px white;
 }
 .profile {
     width: 200px;
