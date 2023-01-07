@@ -209,7 +209,7 @@ body {
     flex-direction: row;
     /* border: solid 2px red; */
 }
-.social-media {
+.social-media1 {
     width: 200px;
     height: 200px;
     background: transparent;
@@ -222,6 +222,21 @@ body {
     border-bottom: solid 4px white;
     border-top: solid 4px white;
     border-left: solid 4px white;
+}
+.social-media2 {
+    width: 200px;
+    height: 200px;
+    background: transparent;
+    margin-left: 4px;
+    margin-top: 8px;
+    /*border: solid 2px red; */
+}
+.img-part14 {
+    width: 200px;
+    height: 200px;
+    border-bottom: solid 4px white;
+    border-top: solid 4px white;
+    border-right: solid 4px white;
 }
 .code-pen {
     width: 200px;
