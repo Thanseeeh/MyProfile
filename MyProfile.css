@@ -191,7 +191,16 @@ body {
     width: 200px;
     height: 200px;
     background: transparent;
+    margin-top: 8px;
+    margin-left: 8px;
     /* border: solid 2px red; */
+}
+.img-part12 {
+    width: 200px;
+    height: 200px;
+    border-top: solid 4px white;
+    border-right: solid 4px white;
+    border-left: solid 4px white;
 }
 .forth-row {
     display: flex;
