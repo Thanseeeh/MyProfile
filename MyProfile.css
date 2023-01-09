@@ -42,7 +42,7 @@ body {
     width: 200px;
     height: 200px;
     background: transparent;
-    margin-left: 8px;
+    margin-left: 4px;
     /* border: solid 2px red; */
 }
 .img-part2 {
@@ -69,7 +69,6 @@ body {
     width: 200px;
     height: 200px;
     background: transparent;
-    margin-left: 4px;
     /* border: solid 2px red; */
 }
 .img-part4 {
@@ -88,7 +87,7 @@ body {
     width: 200px;
     height: 200px;
     background: transparent;
-    margin-top: 8px;
+    margin-top: 4px;
     /* border: solid 2px red; */
 }
 .img-part5 {
@@ -102,8 +101,8 @@ body {
     width: 200px;
     height: 200px;
     background: transparent;
-    margin-top: 8px;
-    margin-left: 8px;
+    margin-top: 4px;
+    margin-left: 4px;
     /* border: solid 2px red; */
 }
 .img-part6 {
@@ -115,8 +114,8 @@ body {
     width: 200px;
     height: 200px;
     background: transparent;
-    margin-top: 8px;
-    margin-left: 8px;
+    margin-top: 4px;
+    margin-left: 4px;
     /* border: solid 2px red; */
 }
 .img-part7 {
@@ -130,12 +129,12 @@ body {
     width: 200px;
     height: 200px;
     background: transparent;
-    margin-top: 8px;
+    margin-top: 4px;
     margin-left: 4px;
     /* border: solid 2px red; */
 }
 .img-part8 {
-    width: 200px;
+    width: 196px;
     height: 200px;
     border-bottom: solid 4px white;
     border-top: solid 4px white;
@@ -165,8 +164,8 @@ body {
     width: 200px;
     height: 200px;
     background: transparent;
-    margin-top: 8px;
-    margin-left: 8px;
+    margin-top: 4px;
+    margin-left: 4px;
     /* border: solid 2px red; */
 }
 .img-part10 {
@@ -178,8 +177,8 @@ body {
     width: 200px;
     height: 200px;
     background: transparent;
-    margin-left: 8px;
-    margin-top: 8px;
+    margin-left: 4px;
+    margin-top: 4px;
     /* border: solid 2px red; */
 }
 .img-part11 {
@@ -191,12 +190,12 @@ body {
     width: 200px;
     height: 200px;
     background: transparent;
-    margin-top: 8px;
-    margin-left: 8px;
+    margin-top: 4px;
+    margin-left: 4px;
     /* border: solid 2px red; */
 }
 .img-part12 {
-    width: 200px;
+    width: 192px;
     height: 200px;
     border-top: solid 4px white;
     border-right: solid 4px white;
@@ -224,15 +223,15 @@ body {
     border-left: solid 4px white;
 }
 .social-media2 {
-    width: 200px;
+    width: 204px;
     height: 200px;
     background: transparent;
     margin-left: 4px;
-    margin-top: 8px;
+    margin-top: -4px;
     /*border: solid 2px red; */
 }
 .img-part14 {
-    width: 200px;
+    width: 204px;
     height: 200px;
     border-bottom: solid 4px white;
     border-top: solid 4px white;
@@ -242,8 +241,8 @@ body {
     width: 200px;
     height: 200px;
     background: transparent;
-    margin-top: 8px;
-    margin-left: 4px;
+    margin-top: -4px;
+    margin-left: 0px;
     /* border: solid 2px red; */
 }
 .img-part15 {
@@ -255,12 +254,12 @@ body {
     width: 200px;
     height: 200px;
     background: transparent;
-    margin-top: 4px;
-    margin-left: 8px;
+    margin-top: 0px;
+    margin-left: 4px;
     /* border: solid 2px red; */
 }
 .img-part16 {
-    width: 200px;
+    width: 192px;
     height: 200px;
     border-bottom: solid 4px white;
     border-right: solid 4px white;
