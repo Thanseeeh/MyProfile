@@ -10,6 +10,18 @@ body {
     position: absolute;
     /* border: solid 2px red; */
 }
+.main-heading {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-shadow: 3px 3px 5px #464646;
+}
+.heading {
+    margin-top: 30px;
+}
 .content-body {
     background: transparent;
     width: 813px;
