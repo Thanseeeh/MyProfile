@@ -99,6 +99,26 @@ a {
     border-top: solid 4px white;
     border-right: solid 4px white;
 }
+.flag-box {
+    width: 200%;
+    text-align: center;
+    margin-top: -165px;
+}
+.flag-box p{
+    position: relative;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: fantasy;
+    letter-spacing: 0.8px;
+    text-shadow: 2px 3px 8px #5e5e5e;
+    margin-top: 10px;
+}
+.indian-flag {
+    position: relative;
+    width: 110px;
+    border-radius: 40px;
+}
 .map {    
     width: 200px;
     height: 200px;
