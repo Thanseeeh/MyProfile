@@ -130,6 +130,21 @@ a {
     height: 200px;
     border: solid 4px white;
 }
+.map-box {
+    width: 100%;
+    text-align: center;
+    margin-top: -135px;
+}
+.map-box p{
+    position: relative;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: fantasy;
+    letter-spacing: 0.8px;
+    text-shadow: 2px 3px 8px #5e5e5e;
+    margin-top: 10px;
+}
 .second-row {
     display: flex;
     flex-wrap: nowrap;
